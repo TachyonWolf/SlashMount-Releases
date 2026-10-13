@@ -4,6 +4,37 @@ An RTS with really custom units: build a chassis, MOUNT modules onto it!
 
 **[Download the latest version](https://github.com/TachyonWolf/SlashMount-Releases/releases/latest)**
 
+## Screenshots
+
+![A battle: lasers, freeze beams and plasma fire](screenshots/battle-1.jpg)
+
+![Mechs with shields hold the line](screenshots/battle-2.jpg)
+
+**AI armies at war.** Two AI players run their own units.
+
+![AI armies clash in the middle of the map](screenshots/ai-battle.jpg)
+
+![An AI match on the Apple Trees map](screenshots/ai-overview.jpg)
+
+**Build your units.** Pick a chassis, then mount modules on it.
+
+![The build menu](screenshots/build-menu.jpg)
+
+![The Army Builder](screenshots/army-builder.jpg)
+
+**Make your own maps.** Paint the ground, place things, and add triggers.
+
+![The map editor](screenshots/map-editor.jpg)
+
+![Triggers in the map editor](screenshots/map-editor-triggers.jpg)
+
+**Menus**
+
+| | |
+|---|---|
+| ![Main menu](screenshots/main-menu.jpg) | ![Lobby](screenshots/lobby.jpg) |
+| ![Compendium](screenshots/compendium.jpg) | |
+
 ## How to play
 
 1. Open the link above.
