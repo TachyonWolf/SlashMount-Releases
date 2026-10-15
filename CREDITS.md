@@ -34,9 +34,8 @@ Design and programming: tachyonwolf. The other dev art (unit icons, skies, UI ic
 |---|---|---|
 | UI sounds: GUI Sound Effects #7 | Jalastram (Jesús Lastra) | Creative Commons Attribution (CC BY) |
 | Weapon and impact sounds: Sci-Fi Sounds, Impact Sounds | Kenney | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) |
-| Music: "Lost signal main theme", "notathing2" | PetterTheSturgeon | being checked |
 
-Some sounds and music are still being looked up. If you made one and we missed you, please tell us.
+Music: "Lost signal main theme" and "notathing2" by PetterTheSturgeon.
 
 ## Thanks for temp dev assets!
 
