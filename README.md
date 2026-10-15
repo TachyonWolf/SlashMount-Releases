@@ -46,6 +46,10 @@ An RTS with really custom units: build a chassis, MOUNT modules onto it!
 
 Windows may warn that the app is unknown. Click **More info**, then **Run anyway**.
 
+## Credits
+
+The people whose art, sound and fonts the game uses: [CREDITS.md](CREDITS.md).
+
 ## Status
 
 Early multiplayer prototype. Most art is placeholder.
