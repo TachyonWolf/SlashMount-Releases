@@ -14,6 +14,7 @@ Design and programming: tachyonwolf. The other dev art (unit icons, skies, UI ic
 | "Tank - near future" (the Tank; changed: barrel and plow removed, recoloured, reshaped, rigged) | Kiith-Sa | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [OpenGameArt](https://opengameart.org/content/tank-near-future) |
 | "Pickup Crate" (the RU crate) | Quaternius | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Poly Pizza](https://poly.pizza/m/1dh0EFL5gl) |
 | "Drill" (the RU Mine) | Kay Lousberg | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [Poly Pizza](https://poly.pizza/m/8uBbH7Dvmb) |
+| "Hover Battler: Sparrow" (the Gunship) | Aaron Clifford | [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/) | [Poly Pizza](https://poly.pizza/m/eGrzfhSGpOg) |
 | Nature Kit (trees and rocks), Blaster Kit (module models), Space Kit (Post, Base and Shocker Mine) | Kenney | [CC0](https://creativecommons.org/publicdomain/zero/1.0/) | [kenney.nl](https://www.kenney.nl) |
 
 ## Icons
